@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a>Laura Castillo</a> 👋</h1>
 </div>
-<img src="https://www.shutterstock.com/image-vector/programming-concept-banner-software-web-development-1438575560"/>
+<img src="https://files.merca20.com/uploads/2017/07/programacion.jpg"/>
 
 
 ## About me
