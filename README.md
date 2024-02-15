@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a>Laura Castillo</a> 👋</h1>
 </div>
-<img src="/Baner Laura.jfif">
+<img src="C:\Users\Usuario\Desktop\ProjectsVisual\Laura Castillo Git/Baner Laura.jpg">
 
 
 ## About me
