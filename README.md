@@ -11,6 +11,7 @@
 - 📲 Back-end developer
 - 📗 Passionate about continuous learning and always seeking new challenges.
 - I enjoy teamwork and collaboration to achieve common goals.
+-  Eager to contribute to challenging projects fostering creativity and professional development.
 <br>
                                                        
                                                                           
